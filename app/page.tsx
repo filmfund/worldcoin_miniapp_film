@@ -6,7 +6,7 @@ export default function Home() {
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <Image
           className="dark:invert"
-          src="/filmfund_eth_filmfundeth_weblogo-BETA-s-ohranicenim_oriznuto3.png"
+          src="/final black-min.png"
           alt="filmfund logo"
           width={180}
           height={38}
