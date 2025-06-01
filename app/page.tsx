@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            Build during ETH Prague 2025.
+            Build during ETH GLOBAL Prague 2025.
           </li>
         </ol>
 
