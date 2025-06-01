@@ -9,7 +9,7 @@ export default function Home() {
           src="/final black-min.png"
           alt="filmfund logo"
           width={180}
-          height={38}
+          height={180}
           priority
         />
         <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
